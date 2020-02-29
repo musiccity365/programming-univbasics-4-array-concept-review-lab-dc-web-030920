@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
-  array.index { |value_to_find| ['b', 'c'].include?(x) }
+  array.value_to_find { |value_to_find| ['b', 'c'].include?(x) }
 end
 
 def find_max_value(array)
