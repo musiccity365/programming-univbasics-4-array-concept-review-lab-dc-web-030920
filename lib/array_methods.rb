@@ -5,7 +5,7 @@ end
 
 def find_max_value(array)
   # Add your solution here
-  array.each_with_index.max[1]
+  array.each_with_index.max[-1]
 end
 
 def find_min_value(array)
